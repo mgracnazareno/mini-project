@@ -3,6 +3,4 @@
 author: Mary Grace Nazareno
 [GitHub Repository](https://github.com/mgracnazareno/mini-project)
 
-## Git log (Screenshot)
 
-![alt text](image.png)
